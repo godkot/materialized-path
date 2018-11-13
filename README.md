@@ -1,10 +1,5 @@
 ## Materialized path trait for Laravel
 
-[![Latest Stable Version](https://poser.pugx.org/langaner/materialized-path/v/stable)](https://packagist.org/packages/langaner/materialized-path) 
-[![Total Downloads](https://poser.pugx.org/langaner/materialized-path/downloads)](https://packagist.org/packages/langaner/materialized-path) 
-[![Latest Unstable Version](https://poser.pugx.org/langaner/materialized-path/v/unstable)](https://packagist.org/packages/langaner/materialized-path) 
-[![License](https://poser.pugx.org/langaner/materialized-path/license)](https://packagist.org/packages/langaner/materialized-path)
-
 ### Installation
 
 1) Add `langaner/materialized-path` to `composer.json`.
